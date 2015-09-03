@@ -1,15 +1,16 @@
-# Advance-Software-Engineering-Project
-Advance Software Engineering Project repository
+# Advance-Software-Engineering-Project-REPOSITORY
 ----------------------------
-
-![image]()
+![image](http://www.tutorialspoint.com/sdlc/images/sdlc_waterfall_model.jpg)
 
 ##Team Members:
+---------------------
+KRANTHI PALADUGU
 
-**SABOOR SIDDIQIE**
-**SAPNA PATIL**
-**KRANTHI PALADUGU**
-**MRDULA KOSARAJU**
+MRDULA KOSARAJU
+
+SABOOR SIDDIQIE
+
+SAPNA PATIL
 
 **Email : saboor.vr439@gmail.com**
 
