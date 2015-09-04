@@ -14,6 +14,10 @@ Meeting with Ms Wuthrich : Attended by Sabor , Kranthi , Mrudula at 8:30am
 
 Ms Wutrich told her requirement. and scheduled a next meeting on Tuesday 8:00am to 9:00am
 
+Don't forget to work on requirement, design your view of requirement by monday.
+
+We can then discuss and make a list of questions to be asked to Ms Wutrich in next meeting on tuesday 8 sep 2015 at 8:00am.
+
 ![rough requirement 1](https://cloud.githubusercontent.com/assets/8570076/9686319/fec159d2-52e8-11e5-86cb-8b7144a3a619.jpg)
 ![rough requirement 2](https://cloud.githubusercontent.com/assets/8570076/9686370/514bcab6-52e9-11e5-9216-899200546eb9.jpg)
 
