@@ -4,7 +4,7 @@
 
 2.Team Logo(selection)->
 
-![fixit](https://cloud.githubusercontent.com/assets/8570076/9674366/ce7acc90-5275-11e5-8a99-a3850650a33e.png)
+![fixitround](https://cloud.githubusercontent.com/assets/8570076/9674594/0f853854-5278-11e5-83b6-c5e87f668370.png)
 
 3.Team Organization(selection)
 
