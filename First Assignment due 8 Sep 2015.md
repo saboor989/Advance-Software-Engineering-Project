@@ -10,7 +10,7 @@
 
 4.Meet Customer 4 Sep 2015 Friday : Ms.Wuthrich Cerise
 
-Meeting with Ms Wuthrich : Attended by Sabor , Kranthi , Mrudula at 8:30am
+Meeting with Ms Wuthrich : Attended by Saboor , Kranthi , Mrudula at 8:30am
 
 Ms Wutrich told her requirement. and scheduled a next meeting on Tuesday 8:00am to 9:00am
 
