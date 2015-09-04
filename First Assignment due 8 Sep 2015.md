@@ -4,6 +4,8 @@
 
 2.Team Logo(selection)->
 
+![fixit](https://cloud.githubusercontent.com/assets/8570076/9674333/584b83ca-5275-11e5-8204-1b84992fa360.png)
+
 3.Team Organization(selection)
 
 4.Meet Customer 4 Sep 2015 Friday : Ms.Wuthrich Cerise
