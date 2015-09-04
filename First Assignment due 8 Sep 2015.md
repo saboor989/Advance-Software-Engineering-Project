@@ -2,7 +2,7 @@
 
 1.Team Name(selection)->Team Fix'it
 
-2.Team Logo(selection)
+2.Team Logo(selection)->
 
 3.Team Organization(selection)
 
