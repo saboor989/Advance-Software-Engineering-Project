@@ -21,6 +21,11 @@ We can then discuss and make a list of questions to be asked to Ms Wutrich in ne
 ![rough requirement 1](https://cloud.githubusercontent.com/assets/8570076/9686319/fec159d2-52e8-11e5-86cb-8b7144a3a619.jpg)
 ![rough requirement 2](https://cloud.githubusercontent.com/assets/8570076/9686370/514bcab6-52e9-11e5-9216-899200546eb9.jpg)
 
+Basic Design regarding project (rough sketch to get an idea 
+
+![cam00418 1](https://cloud.githubusercontent.com/assets/13227490/9726242/0359bb86-55b6-11e5-95eb-708a2dcd33a7.jpg)
+![cam00419 1](https://cloud.githubusercontent.com/assets/13227490/9726244/0be5a1f2-55b6-11e5-9dbd-640ab6eb7962.jpg)
+![Uploading CAM00420[1].jpg…]()
 
 5.Process Model (selection)
 
